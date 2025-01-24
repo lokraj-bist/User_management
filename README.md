@@ -3,7 +3,8 @@
 A Flutter app that manages users by fetching data from the `JSONPlaceholder` API and storing it
 locally with SQLite. It features two sections: 
  **Network** 
- **Native**
+and 
+ **Locals**
 
 ## Features
 
@@ -16,4 +17,4 @@ locally with SQLite. It features two sections:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-repository/localnetwork.git
+git clone https://github.com/lokraj-bist/User_management.gitt
